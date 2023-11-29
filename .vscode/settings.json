@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx.base.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx.controls.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx.web.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx.swing.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx.graphics.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx.media.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx-swt.jar",
+        "/Users/geovannigaspar/Downloads/javafx-sdk-17.0.9/lib/javafx.fxml.jar"
+    ]
+}
